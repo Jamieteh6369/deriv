@@ -1,0 +1,22 @@
+TOOLS = 
+[{
+    "type": "function",
+    "function": {
+        "name": "search_books",
+        "description": "Search for books by title, genre, or price",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string",
+                },
+                "genre": {
+                    "type": "string",
+                },
+                "price_range": {
+                    "type": "int",
+                }
+            },
+        },
+    },
+}]
