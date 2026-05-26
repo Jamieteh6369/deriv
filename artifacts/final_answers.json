@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "question": "What authentication methods does the API support?",
+    "answer": "I am sorry, but the provided text does not contain information about the authentication methods supported by the API.",
+    "supported": false,
+    "citations": [],
+    "retrieved_chunk_ids": [
+      "questions.json_chunk0",
+      "questions.json_chunk2",
+      "questions.json_chunk1"
+    ],
+    "validation": {
+      "id": 1,
+      "passed": true,
+      "issues": []
+    }
+  },
+  {
+    "id": 2,
+    "question": "How long are webhook delivery logs retained?",
+    "answer": "I am sorry, but the provided text does not contain information to answer this question.",
+    "supported": false,
+    "citations": [],
+    "retrieved_chunk_ids": [
+      "questions.json_chunk0",
+      "questions.json_chunk2",
+      "questions.json_chunk1"
+    ],
+    "validation": {
+      "id": 2,
+      "passed": true,
+      "issues": []
+    }
+  },
+  {
+    "id": 3,
+    "question": "Is there a free plan for startups?",
+    "answer": "I am sorry, but the provided context does not contain information to answer this question.",
+    "supported": false,
+    "citations": [],
+    "retrieved_chunk_ids": [
+      "questions.json_chunk1",
+      "questions.json_chunk0",
+      "questions.json_chunk2"
+    ],
+    "validation": {
+      "id": 3,
+      "passed": true,
+      "issues": []
+    }
+  },
+  {
+    "id": 4,
+    "question": "What happens if I exceed the rate limit?",
+    "answer": "I am sorry, but the provided text does not contain information to answer this question.",
+    "supported": false,
+    "citations": [],
+    "retrieved_chunk_ids": [
+      "questions.json_chunk1",
+      "questions.json_chunk0",
+      "questions.json_chunk2"
+    ],
+    "validation": {
+      "id": 4,
+      "passed": true,
+      "issues": []
+    }
+  },
+  {
+    "id": 5,
+    "question": "Can I delete customer data immediately on request?",
+    "answer": "I am sorry, but the provided text does not contain information to answer this question.",
+    "supported": false,
+    "citations": [],
+    "retrieved_chunk_ids": [
+      "questions.json_chunk1",
+      "questions.json_chunk0",
+      "questions.json_chunk2"
+    ],
+    "validation": {
+      "id": 5,
+      "passed": true,
+      "issues": []
+    }
+  },
+  {
+    "id": 6,
+    "question": "Does the platform support GraphQL subscriptions?",
+    "answer": "I am sorry, but the provided text does not contain information to answer this question.",
+    "supported": false,
+    "citations": [],
+    "retrieved_chunk_ids": [
+      "questions.json_chunk2",
+      "questions.json_chunk0",
+      "questions.json_chunk1"
+    ],
+    "validation": {
+      "id": 6,
+      "passed": true,
+      "issues": []
+    }
+  }
+]

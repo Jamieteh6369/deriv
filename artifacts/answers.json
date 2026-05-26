@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "question": "What authentication methods does the API support?",
+    "answer": "I am sorry, but the provided text does not contain information about the authentication methods supported by the API.",
+    "supported": false,
+    "citations": []
+  },
+  {
+    "id": 2,
+    "question": "How long are webhook delivery logs retained?",
+    "answer": "I am sorry, but the provided text does not contain information to answer this question.",
+    "supported": false,
+    "citations": []
+  },
+  {
+    "id": 3,
+    "question": "Is there a free plan for startups?",
+    "answer": "I am sorry, but the provided context does not contain information to answer this question.",
+    "supported": false,
+    "citations": []
+  },
+  {
+    "id": 4,
+    "question": "What happens if I exceed the rate limit?",
+    "answer": "I am sorry, but the provided text does not contain information to answer this question.",
+    "supported": false,
+    "citations": []
+  },
+  {
+    "id": 5,
+    "question": "Can I delete customer data immediately on request?",
+    "answer": "I am sorry, but the provided text does not contain information to answer this question.",
+    "supported": false,
+    "citations": []
+  },
+  {
+    "id": 6,
+    "question": "Does the platform support GraphQL subscriptions?",
+    "answer": "I am sorry, but the provided text does not contain information to answer this question.",
+    "supported": false,
+    "citations": []
+  }
+]

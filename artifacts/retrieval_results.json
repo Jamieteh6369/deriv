@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "question": "What authentication methods does the API support?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "questions.json_chunk0",
+        "doc_id": "questions.json",
+        "score": 0.7421061469404575,
+        "text": "[\n  { \"id\": 1, \"question\": \"What authentication methods does the API support?\" },\n  { \"id\": 2, \"question\": \"How long are webhook delivery logs retained?\" },\n  { \"id\": 3, \"question\": \"Is there a free p"
+      },
+      {
+        "chunk_id": "questions.json_chunk2",
+        "doc_id": "questions.json",
+        "score": 0.5973086753521057,
+        "text": "Does the platform support GraphQL subscriptions?\" }\n]"
+      },
+      {
+        "chunk_id": "questions.json_chunk1",
+        "doc_id": "questions.json",
+        "score": 0.5547519525465189,
+        "text": "lan for startups?\" },\n  { \"id\": 4, \"question\": \"What happens if I exceed the rate limit?\" },\n  { \"id\": 5, \"question\": \"Can I delete customer data immediately on request?\" },\n  { \"id\": 6, \"question\": \""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "How long are webhook delivery logs retained?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "questions.json_chunk0",
+        "doc_id": "questions.json",
+        "score": 0.7049510225921732,
+        "text": "[\n  { \"id\": 1, \"question\": \"What authentication methods does the API support?\" },\n  { \"id\": 2, \"question\": \"How long are webhook delivery logs retained?\" },\n  { \"id\": 3, \"question\": \"Is there a free p"
+      },
+      {
+        "chunk_id": "questions.json_chunk2",
+        "doc_id": "questions.json",
+        "score": 0.5986431330603512,
+        "text": "Does the platform support GraphQL subscriptions?\" }\n]"
+      },
+      {
+        "chunk_id": "questions.json_chunk1",
+        "doc_id": "questions.json",
+        "score": 0.5821221295796775,
+        "text": "lan for startups?\" },\n  { \"id\": 4, \"question\": \"What happens if I exceed the rate limit?\" },\n  { \"id\": 5, \"question\": \"Can I delete customer data immediately on request?\" },\n  { \"id\": 6, \"question\": \""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Is there a free plan for startups?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "questions.json_chunk1",
+        "doc_id": "questions.json",
+        "score": 0.7092455106342161,
+        "text": "lan for startups?\" },\n  { \"id\": 4, \"question\": \"What happens if I exceed the rate limit?\" },\n  { \"id\": 5, \"question\": \"Can I delete customer data immediately on request?\" },\n  { \"id\": 6, \"question\": \""
+      },
+      {
+        "chunk_id": "questions.json_chunk0",
+        "doc_id": "questions.json",
+        "score": 0.617476238380043,
+        "text": "[\n  { \"id\": 1, \"question\": \"What authentication methods does the API support?\" },\n  { \"id\": 2, \"question\": \"How long are webhook delivery logs retained?\" },\n  { \"id\": 3, \"question\": \"Is there a free p"
+      },
+      {
+        "chunk_id": "questions.json_chunk2",
+        "doc_id": "questions.json",
+        "score": 0.579325970486599,
+        "text": "Does the platform support GraphQL subscriptions?\" }\n]"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What happens if I exceed the rate limit?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "questions.json_chunk1",
+        "doc_id": "questions.json",
+        "score": 0.6435042615614418,
+        "text": "lan for startups?\" },\n  { \"id\": 4, \"question\": \"What happens if I exceed the rate limit?\" },\n  { \"id\": 5, \"question\": \"Can I delete customer data immediately on request?\" },\n  { \"id\": 6, \"question\": \""
+      },
+      {
+        "chunk_id": "questions.json_chunk0",
+        "doc_id": "questions.json",
+        "score": 0.6002582486992556,
+        "text": "[\n  { \"id\": 1, \"question\": \"What authentication methods does the API support?\" },\n  { \"id\": 2, \"question\": \"How long are webhook delivery logs retained?\" },\n  { \"id\": 3, \"question\": \"Is there a free p"
+      },
+      {
+        "chunk_id": "questions.json_chunk2",
+        "doc_id": "questions.json",
+        "score": 0.5530734375350999,
+        "text": "Does the platform support GraphQL subscriptions?\" }\n]"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Can I delete customer data immediately on request?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "questions.json_chunk1",
+        "doc_id": "questions.json",
+        "score": 0.6768183269579822,
+        "text": "lan for startups?\" },\n  { \"id\": 4, \"question\": \"What happens if I exceed the rate limit?\" },\n  { \"id\": 5, \"question\": \"Can I delete customer data immediately on request?\" },\n  { \"id\": 6, \"question\": \""
+      },
+      {
+        "chunk_id": "questions.json_chunk0",
+        "doc_id": "questions.json",
+        "score": 0.5744414379695167,
+        "text": "[\n  { \"id\": 1, \"question\": \"What authentication methods does the API support?\" },\n  { \"id\": 2, \"question\": \"How long are webhook delivery logs retained?\" },\n  { \"id\": 3, \"question\": \"Is there a free p"
+      },
+      {
+        "chunk_id": "questions.json_chunk2",
+        "doc_id": "questions.json",
+        "score": 0.5438611906670227,
+        "text": "Does the platform support GraphQL subscriptions?\" }\n]"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Does the platform support GraphQL subscriptions?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "questions.json_chunk2",
+        "doc_id": "questions.json",
+        "score": 0.975976854104258,
+        "text": "Does the platform support GraphQL subscriptions?\" }\n]"
+      },
+      {
+        "chunk_id": "questions.json_chunk0",
+        "doc_id": "questions.json",
+        "score": 0.6211737991095738,
+        "text": "[\n  { \"id\": 1, \"question\": \"What authentication methods does the API support?\" },\n  { \"id\": 2, \"question\": \"How long are webhook delivery logs retained?\" },\n  { \"id\": 3, \"question\": \"Is there a free p"
+      },
+      {
+        "chunk_id": "questions.json_chunk1",
+        "doc_id": "questions.json",
+        "score": 0.5774032062226665,
+        "text": "lan for startups?\" },\n  { \"id\": 4, \"question\": \"What happens if I exceed the rate limit?\" },\n  { \"id\": 5, \"question\": \"Can I delete customer data immediately on request?\" },\n  { \"id\": 6, \"question\": \""
+      }
+    ]
+  }
+]
